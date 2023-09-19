@@ -136,5 +136,5 @@ class Detector:
         cv2.destroyAllWindows()
         
     def algo():
-        algo = 0
+        algo = 2
         
